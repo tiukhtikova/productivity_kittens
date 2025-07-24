@@ -22,13 +22,6 @@ This is a short project I've created to start learning ElectronJS. This is a sma
 ## Usage
 
 To run the application, run the command ```npm start```
-In this application you can create tasks, by writing it in the text field, then clicking the "+" button. It will appear on the
-to-do list displayed below the date and the input field, and you'll be able to click on it once you got it done to strikethrough
-the line. It will update automatically your progression bar, that updates its value according to the number of tasks you put, and
-the number of tasks you finished.
-
-
-Once you're done, click on the finish button to get your daily achievement score!
 
 ## Contributing Guidelines
 
