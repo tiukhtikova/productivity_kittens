@@ -1,8 +1,10 @@
-const { app, BrowserWindow } = require('electron/main')
+const { app, BrowserWindow, ipcMain } = require('electron');
 const path = require('node:path')
 
+let win;
+
 function createWindow () {
-  const win = new BrowserWindow({
+  win = new BrowserWindow({
     width: 800,
     height: 600,
     webPreferences: {
@@ -12,6 +14,13 @@ function createWindow () {
 
   win.loadFile('index.html')
 }
+
+// Handle page navigation from renderer
+ipcMain.on('load-page', (event, page) => {
+  if (win && page) {
+    win.loadFile(page);
+  }
+});
 
 app.whenReady().then(() => {
   createWindow()
