@@ -2,7 +2,7 @@
   "name": "productivity_kittens",
   "version": "1.0.0",
   "description": "Stay productive with cute kitties. Stay consistent.",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
     "start": "electron ."
   },
