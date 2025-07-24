@@ -1,0 +1,22 @@
+{
+  "name": "productivity_kittens",
+  "version": "1.0.0",
+  "description": "Stay productive with cute kitties. Stay consistent.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tiukhtikova/productivity_kittens.git"
+  },
+  "author": "tiukhtikova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tiukhtikova/productivity_kittens/issues"
+  },
+  "homepage": "https://github.com/tiukhtikova/productivity_kittens#readme",
+  "devDependencies": {
+    "electron": "^37.2.4"
+  }
+}
