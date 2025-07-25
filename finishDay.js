@@ -12,7 +12,7 @@ if (isNaN(finalConclusion)) {
     console.log("Invalid final progress value");
 } else if (finalConclusion === 100) {
     success.removeAttribute("hidden"); 
-    title.innerHTML = "You're doing good!";
+    title.innerHTML = "You're doing amazing!";
     conclusion.innerText = `Your final progress: ${Math.round(finalConclusion)}%`;
 } else {
     unsuccess.removeAttribute("hidden"); 
