@@ -1,5 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Modak&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400..700&display=swap');
+/*@import url('https://fonts.googleapis.com/css2?family=Modak&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400..700&display=swap');*/
+/*@import url('https://fonts.googleapis.com/css2?family=Caudex:wght@400;700&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
 
 * {
     margin: 0;
@@ -8,6 +10,11 @@
 }
 
 body {
+    background-color: #6E763F;
+}
+
+body {
+    font-family: 'Press Start 2P', cursive;
     background-color: #6E763F;
 }
 
@@ -46,7 +53,7 @@ body {
 }
 
 #start-btn {
-    font-family: 'Pixelify Sans';
+    font-family: 'Press Start 2P';
     font-size: 24px;
     color: #FEF6F0;
     background-color: #97A085;
@@ -96,12 +103,12 @@ body {
     gap: 12px;
 }
 #day {
-    font-family: 'Pixelify Sans';
+    font-family: 'Press Start 2P';
     font-size: 20px;
     font-weight: 600;
 }
 #number {
-    font-family: 'Pixelify Sans';
+    font-family: 'Press Start 2P';
     font-size: 32px;
     color: #FEF6F0;
     background-color: #6E763F;
@@ -109,7 +116,7 @@ body {
     border-radius: 50px;
 }
 #month {
-    font-family: 'Pixelify Sans';
+    font-family: 'Press Start 2P';
     font-size: 16px;
 }
 
@@ -133,7 +140,7 @@ body {
     flex-direction: column;
 }
 .progression h3 {
-    font-family: 'Pixelify Sans';
+    font-family: 'Press Start 2P';
     font-size: 20px;
     margin-bottom: 8px;
     font-weight: 600;
