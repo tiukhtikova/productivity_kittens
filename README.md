@@ -13,7 +13,7 @@ This is a short project I've created to start learning ElectronJS. This is a sma
 
 ### Installation
 1. Clone the repository
-```git clone https://github.com/Btelgeuse/GreenProductive.git```
+```git clone https://github.com/Btelgeuse/productivity_kittens.git```
 2. Install NPM packages
 ```npm install```
 3. Install ElectronJS
