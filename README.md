@@ -1,15 +1,16 @@
-# productivity_kittens
+# 🐈 productivity_kittens
+
 Stay productive with the help of adorable kitties.  
 
 This is a short project I've created to start learning ElectronJS. This is a small organization & productivity app where users can set tasks and finish them with the support of adorable kitties.
 
-### It was made with...
+### 🌙 It was made with...
 * HTML
 * CSS
 * JavaScript
 * ElectronJS
 
-## Installation Instructions
+## 🌖 Installation Instructions
 
 ### Installation
 1. Clone the repository
@@ -19,7 +20,7 @@ This is a short project I've created to start learning ElectronJS. This is a sma
 3. Install ElectronJS
 ```npm install --save-dev electron```
 
-## Usage
+## 🪐 Usage
 
 To run the application, run the command ```npm start```
 
@@ -33,8 +34,7 @@ To run the application, run the command ```npm start```
 
 ### Main contributors
 
-
-## Contact
+No contributors so far 😭
 
 ## Acknowledgements
 Here are the resources that helped me build this project:
