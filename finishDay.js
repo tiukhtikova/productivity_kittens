@@ -7,7 +7,7 @@ const conclusion = document.getElementById("conclusion");
 console.log("Final Progress:", finalConclusion);
 console.log("Type of finalProgress:", typeof finalConclusion);
 
-// Check if finalConclusion is a valid number
+
 if (isNaN(finalConclusion)) {
     console.log("Invalid final progress value");
 } else if (finalConclusion === 100) {
