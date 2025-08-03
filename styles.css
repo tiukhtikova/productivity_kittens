@@ -224,7 +224,7 @@ body {
 }
 
 #finish-btn {
-    font-family: 'Pixelify Sans';
+    font-family: 'Press Start 2P', cursive;
     font-size: 24px;
     color: #FEF6F0;
     background-color: #625c9d;
@@ -252,9 +252,9 @@ body {
 }
 
 #final-title {
-    font-family: 'Modak';
+    font-family: 'Press Start 2P', cursive;
     font-weight: 400;
-    font-size: 48px;
+    font-size: 24px;
     color: #FEF6F0;
 }
 
@@ -285,7 +285,7 @@ body {
 }
 
 #restart-btn {
-    font-family: 'Pixelify Sans';
+    font-family: 'Press Start 2P', cursive;
     font-size: 24px;
     color: #FEF6F0;
     background-color: #7C8AD7;
